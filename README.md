@@ -1,5 +1,5 @@
 # ShareCount Project CPOA L3 info
-## Projet en C++ / QT
+## Projet en C++ / QT5
 
 ## Brief
 ShareCount® est un outil permettant d’équilibrer ses dépenses entre amis.  
