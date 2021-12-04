@@ -29,8 +29,10 @@ dettes)
 
 
 ## Versions
-1- version pour ajouter et enlever des membres à un grp (UI)\n
-2- ajout possibilite de trier la liste de membres d'un grp\n
+1- version pour ajouter et enlever des membres à un grp (UI)
+
+2- ajout possibilite de trier la liste de membres d'un grp
+
 3- ajout classes recepisse et ConvertToAmount\n
 
 
