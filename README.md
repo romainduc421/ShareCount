@@ -33,7 +33,9 @@ dettes)
 
 2- ajout possibilite de trier la liste de membres d'un grp
 
-3- ajout classes recepisse et ConvertToAmount\n
+3- ajout classes recepisse et ConvertToAmount
+
+4- ajout de fonctionnalites
 
 
 
