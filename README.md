@@ -26,3 +26,13 @@ L’application est supervisée par un/des administrateurs veillant au respect
 du dû de chacun et doivent gérer les réclamations des membres non 
 satisfaits de l’équilibre des dépenses. (par ex un individu ayant trop de 
 dettes) 
+
+
+## Versions
+1- version pour ajouter et enlever des membres à un grp (UI)
+2- ajout possibilite de trier la liste de membres d'un grp
+3- ajout classes recepisse et ConvertToAmount
+
+
+
+## Ouvrir le projet ShareCountv''.pro sous QTCreator, build all puis execute
