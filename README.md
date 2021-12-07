@@ -27,6 +27,10 @@ du dû de chacun et doivent gérer les réclamations des membres non
 satisfaits de l’équilibre des dépenses. (par ex un individu ayant trop de 
 dettes) 
 
+Sharecount is the easiest way to share expenses with friends and family and stop stressing about “who owes who” so that everyone gets paid back.
+The App makes sure that minimum number of transactions are being performed overall , thus making the entire process smoother.
+
+
 
 ## Versions
 1- version pour ajouter et enlever des membres à un grp (UI)
